@@ -1,0 +1,17 @@
+.carousel-container {
+  overflow: hidden;
+  height: 440px;
+}
+
+.popular-title {
+  font-size: 3rem;
+  margin-left: 5rem;
+}
+
+/* @media (max-width: 480px) {
+  .carousel-container {
+    height: 330px;
+    display: flex;
+    justify-content: center;
+  }
+} */
